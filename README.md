@@ -11,9 +11,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 
-   <img src="[[g](https://share.google/gwk3kYVq5xBQyJzS7)](https://share.google/SNsh2v1xPA6846nrV)" alt="Unity2D" height="50">
-   <img src="https://share.google/uShbAVWAZZmCvwPQM" alt="Raylib-cs" height="50" width="50">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/150px-MonoGame_Logo.svg.png](https://share.google/oVc3nV2X3CGuzWJxo)" alt="Raylib" height="50" width="50">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEpvhQOuCkjQFYaax3e8BMa9yk4Y6xt_HUQ&s" alt="Unity" height="50">
+   <img src="[https://share.google/uShbAVWAZZmCvwPQM](https://avatars.githubusercontent.com/u/194473703?s=200&v=4)" alt="Raylib-cs" height="50" width="50">
+  <img src="https://www.raylib.com/common/img/raylib_logo_card.png" alt="Raylib" height="50" width="50">
 </div>
 <br/><br/>
 
