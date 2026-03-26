@@ -18,6 +18,6 @@
 <br/><br/>
 
 ## 📓 About me:
-  - Learning to code
-  - Love coding
-  - Uses C#
+  - Programmer
+  - Love Problem Solving
+  - Love learning how things work
