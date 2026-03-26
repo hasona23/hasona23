@@ -3,7 +3,7 @@
 ## Tech I Know
 <div>
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" alt="C#" width="50" height="50"/>
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="GO" width="50" height="50" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" width="50" height="50" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEpvhQOuCkjQFYaax3e8BMa9yk4Y6xt_HUQ&s" alt="Unity" height="50">
-   <img src="[https://share.google/uShbAVWAZZmCvwPQM](https://avatars.githubusercontent.com/u/194473703?s=200&v=4)" alt="Raylib-cs" height="50" width="50">
-  <img src="https://www.raylib.com/common/img/raylib_logo_card.png" alt="Raylib" height="50" width="50">
+   <img src="https://avatars.githubusercontent.com/u/194473703?s=200&v=4" alt="Raylib-cs" height="50" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib" height="50" width="50">
 </div>
 <br/><br/>
 
