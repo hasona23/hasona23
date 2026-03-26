@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=1000&color=29F7E7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+hasona23;I+Love+writing+%3CC%23%3E;I'm+a+beginner+learning+to+cde)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=1000&color=29F7E7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+hasona23;I+Love+writing+%3CC%23%3E;I'm+a+Programmer (mainly C#))](https://git.io/typing-svg)
 
 ## Tech I Know
 <div>
